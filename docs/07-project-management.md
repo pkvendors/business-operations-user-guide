@@ -25,3 +25,4 @@ users to maintain project information.
 4. Update the required information.
 5. Select **Save**.
 
+![BOMS Project-management](../images/Project-management.png)
