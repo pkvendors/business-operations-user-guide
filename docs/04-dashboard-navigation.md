@@ -25,4 +25,5 @@ features of the BOMS application.
 4. Wait for the selected module to display.
 
 **Expected Result:** The selected module opens.
+
 ![BOMS Dashboard-navigation](../images/Dashboard-navigation.png)
