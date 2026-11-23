@@ -14,6 +14,7 @@
 3. Select the **Sign In** button.
 4. Wait for the dashboard to display.
 
+![BOMS User-login](../images/user-login.png)
 ## 3.3 Logging Out
 
 1. Navigate to your user profile.
