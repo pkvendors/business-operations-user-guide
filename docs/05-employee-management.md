@@ -31,7 +31,7 @@ users to maintain employee records.
    in the search field.
 3. Click **Search**.
 4. Review the matching results.
-5. ![BOMS Employee-search](../images/employee-search.png)
+5. ![BOMS Employee-search.png](../images/employee-search.png)
 
 ## 5.5 Expected Results
 
